@@ -21,7 +21,12 @@ array (as per the simulation) and those methods call the button's method to upda
 "Next" button or a non-stop simulation through "Start" button (simulation can be stopped using the "Stop" button).
 
 
+
+
 The code is run through the ConwayGameOfLife.java. By running this file the entire program is started.
+
+
+Can also be run by using the jar executable included in this repository "ConwayGameOfLife.jar"
 
 
 
